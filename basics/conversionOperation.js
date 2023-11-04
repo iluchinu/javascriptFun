@@ -16,5 +16,11 @@ let booleanIsLoggedIn= Boolean(isLoggedIn);
 
 const tempNumber = 33;
 const stringTempNumber = String(tempNumber);
-console.log(stringTempNumber)
-console.log(typeof stringTempNumber);
+// console.log(stringTempNumber)
+// console.log(typeof stringTempNumber);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+2+2);
+console.log(1+2+"2");
+console.log(+true);
